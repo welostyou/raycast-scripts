@@ -1,4 +1,4 @@
-# raycast-scripts
+# Raycast 脚本
 
 
 > 建议将脚本以及软件设置保存在iCloud云盘，防止消失。
