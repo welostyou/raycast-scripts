@@ -8,7 +8,7 @@
 
 ### 注意
 
-⚠️ 需注意macOS自带的【脚本编辑器】进行编辑存在格式问题，[见issues](https://github.com/raycast/script-commands/issues/466)，将导致使用emoji表情作为icon会报运行错误。
+⚠️ 需注意macOS自带的【脚本编辑器】进行编辑存在格式问题（[详见issues](https://github.com/raycast/script-commands/issues/466)），该问题将导致使用emoji表情作为icon会报运行错误。
 
 ⚠️ 请使用vscode编辑或使用其他格式icon。
 
