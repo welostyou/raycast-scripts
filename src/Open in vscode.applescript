@@ -17,7 +17,7 @@ tell application "Finder"
 		return "未打开任何访达窗口!"
 	end if
 	set folderPath to (POSIX path of (folder of the front window as alias))
-		set cmd to "code \"" & (text 1 thru -2 of folderPath) & "\""
-		do shell script cmd
-		return "成功打开!"
+	set cmd to "code \"" & (text 1 thru -2 of folderPath) & "\""
+	do shell script cmd
+	return "成功打开!"
 end tell

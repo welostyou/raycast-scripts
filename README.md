@@ -14,7 +14,8 @@
 
 ### 枚举
 
-- Copy date - 拷贝日期
-- Copy time - 拷贝时间
-- Create New File - 在当前窗口新建空白文件
-- Create New Folder - 在当前窗口新建文件夹
+- Copy date - 拷贝日期到剪切板
+- Copy time - 拷贝时间到剪切板
+- Create New File - 在当前访达窗口创建一个空白文件
+- Create New Folder - 在当前访达窗口创建一个文件夹
+- Open in vscode - 在vscode中打开当前访达窗口所在目录
