@@ -7,7 +7,7 @@
 # @raycast.packageName 在当前访达窗口创建一个空白文件.
 
 # Optional parameters: 
-# @raycast.icon 📃
+# @raycast.icon ./finder-icon.png
 # @raycast.argument1 { "type": "text", "placeholder": "Name" }
 
 # Documentation:

@@ -7,7 +7,7 @@
 # @raycast.packageName 在vscode中打开当前访达窗口所在目录.
 
 # Optional parameters: 
-# @raycast.icon 💻
+# @raycast.icon ./vscode-icon.png
 
 # Documentation:
 # @raycast.description Open in vscode.
